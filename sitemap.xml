@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://hwacu.github.io/images/hwacu_logo326x164.png</loc>
+    <lastmod>2016-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://hwacu.github.io/index.html</loc>
     <lastmod>2016-09-10</lastmod>
     <changefreq>weekly</changefreq>

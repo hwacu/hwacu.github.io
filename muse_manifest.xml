@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1473536035692">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1473537065569">
   <folder name="css">
     <file name="site_global.css" crc="216051557"/>
-    <file name="master_a-master.css" crc="100783954" ref="index:appointments:about:therapies"/>
-    <file name="index.css" crc="3950422692" ref="index"/>
-    <file name="appointments.css" crc="4183421662" ref="appointments"/>
-    <file name="about.css" crc="4246907576" ref="about"/>
-    <file name="therapies.css" crc="3932290636" ref="therapies"/>
+    <file name="master_a-master.css" crc="4172928128" ref="index:appointments:about:therapies"/>
+    <file name="index.css" crc="4188674546" ref="index"/>
+    <file name="appointments.css" crc="3931495159" ref="appointments"/>
+    <file name="about.css" crc="4272614447" ref="about"/>
+    <file name="therapies.css" crc="486975175" ref="therapies"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:about:therapies:appointments"/>
@@ -26,7 +26,6 @@
     <file name="wellnessbackground2.png" crc="499737560" ref="index"/>
     <file name="hwacu_logo480x240.png" crc="3944179256" seo="true" ref="index"/>
     <file name="sound-waves-light-background-1234662.png" crc="482681127" ref="index"/>
-    <file name="hwacu_logo-u5373-fr.png" crc="191349868" ref="index"/>
     <file name="pen_04.jpg" crc="298723064" ref="index"/>
     <file name="pen_05.jpg" crc="3913382269" ref="index"/>
     <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="index:about:therapies:appointments"/>
@@ -38,9 +37,10 @@
     <file name="u3669.png" crc="172396241" ref="index:about:therapies:appointments"/>
     <file name="u3669-r.png" crc="69546391" ref="index:about:therapies:appointments"/>
     <file name="hwacu_logo.png" crc="510898543" ref="therapies"/>
+    <file name="hwacu_logo326x164.png" crc="432173987" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="168107036" seo="true" mt="1473535708177" redirect="true"/>
-  <file name="about.html" crc="462437811" seo="true" mt="1473535708175" redirect="true"/>
-  <file name="therapies.html" crc="4208047456" seo="true" mt="1473535708174" redirect="true"/>
-  <file name="appointments.html" crc="121984473" seo="true" mt="1473535708173" redirect="true"/>
+  <file name="index.html" crc="4038286155" seo="true" mt="1473537039725" redirect="true"/>
+  <file name="about.html" crc="34847249" seo="true" mt="1473537039725" redirect="true"/>
+  <file name="therapies.html" crc="145237415" seo="true" mt="1473537039725" redirect="true"/>
+  <file name="appointments.html" crc="4050858494" seo="true" mt="1473537039725" redirect="true"/>
 </manifest>
