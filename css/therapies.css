@@ -1,7 +1,7 @@
 .version.therapies /* version checker */
 {
-	color: #000000;
-	background-color: #38A859;
+	color: #0000EA;
+	background-color: #61FE4C;
 }
 
 #muse_css_mq
@@ -47,6 +47,16 @@
 	position: relative;
 }
 
+#u5373
+{
+	z-index: 107;
+	width: 161px;
+	height: 81px;
+	position: fixed;
+	bottom: 444px;
+	left: 120px;
+}
+
 #u3096-3
 {
 	z-index: 77;
@@ -59,13 +69,31 @@
 	position: relative;
 }
 
-#u5373
+#pu175-4
 {
-	z-index: 107;
+	width: 0.01px;
+	padding-bottom: 67px;
+	margin-left: 20px;
+	margin-top: -51px;
+}
+
+#u175-4
+{
+	z-index: 80;
 	width: 161px;
-	height: 81px;
+	min-height: 27px;
 	position: fixed;
-	bottom: 330px;
+	bottom: 404px;
+	left: 120px;
+}
+
+#u591-4
+{
+	z-index: 103;
+	width: 161px;
+	min-height: 22px;
+	position: fixed;
+	bottom: 363px;
 	left: 120px;
 }
 
@@ -75,28 +103,10 @@
 	width: 740px;
 	height: 411px;
 	margin-left: 200px;
-	margin-top: 43px;
+	margin-top: 26px;
 	position: relative;
 	background: #F4F4F4 url("../images/hwacu_logo.png") no-repeat center center;
 	background-size: cover;
-}
-
-#pu175-4
-{
-	width: 0.01px;
-	padding-bottom: 213px;
-	margin-left: 20px;
-	margin-top: -391px;
-}
-
-#u175-4
-{
-	z-index: 80;
-	width: 161px;
-	min-height: 27px;
-	position: fixed;
-	bottom: 290px;
-	left: 120px;
 }
 
 #menuu205
@@ -104,7 +114,7 @@
 	z-index: 84;
 	width: 161px;
 	position: fixed;
-	bottom: 103px;
+	bottom: 217px;
 	left: 120px;
 }
 
@@ -237,16 +247,6 @@
 	min-height: 22px;
 	width: 161px;
 	margin: 0px -10000px 0px 0px;
-}
-
-#u591-4
-{
-	z-index: 103;
-	width: 161px;
-	min-height: 22px;
-	position: fixed;
-	bottom: 253px;
-	left: 120px;
 }
 
 #pu921

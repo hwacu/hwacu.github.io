@@ -1,7 +1,7 @@
 .version.appointments /* version checker */
 {
-	color: #000016;
-	background-color: #AE2C2C;
+	color: #0000F9;
+	background-color: #59F2DE;
 }
 
 #muse_css_mq
@@ -47,6 +47,16 @@
 	position: relative;
 }
 
+#u5373
+{
+	z-index: 55;
+	width: 161px;
+	height: 81px;
+	position: fixed;
+	bottom: 444px;
+	left: 120px;
+}
+
 #u1482-4
 {
 	z-index: 23;
@@ -59,13 +69,23 @@
 	position: relative;
 }
 
-#u5373
+#u175-4
 {
-	z-index: 55;
+	z-index: 28;
 	width: 161px;
-	height: 81px;
+	min-height: 27px;
 	position: fixed;
-	bottom: 330px;
+	bottom: 404px;
+	left: 120px;
+}
+
+#u591-4
+{
+	z-index: 51;
+	width: 161px;
+	min-height: 22px;
+	position: fixed;
+	bottom: 363px;
 	left: 120px;
 }
 
@@ -83,9 +103,9 @@
 #pu1483
 {
 	width: 0.01px;
-	padding-bottom: 1175px;
+	padding-bottom: 1188px;
 	margin-left: 20px;
-	margin-top: -1153px;
+	margin-top: -1165px;
 }
 
 #u1483
@@ -118,22 +138,12 @@
 	filter: alpha(opacity=0);
 }
 
-#u175-4
-{
-	z-index: 28;
-	width: 161px;
-	min-height: 27px;
-	position: fixed;
-	bottom: 290px;
-	left: 120px;
-}
-
 #menuu205
 {
 	z-index: 32;
 	width: 161px;
 	position: fixed;
-	bottom: 103px;
+	bottom: 217px;
 	left: 120px;
 }
 
@@ -268,23 +278,13 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u591-4
-{
-	z-index: 51;
-	width: 161px;
-	min-height: 22px;
-	position: fixed;
-	bottom: 253px;
-	left: 120px;
-}
-
 #u3665
 {
 	z-index: 14;
 	height: 37px;
 	width: 36px;
 	margin-left: 963px;
-	top: -151px;
+	top: -152px;
 	margin-bottom: -37px;
 	position: relative;
 }
@@ -295,7 +295,7 @@
 	height: 37px;
 	width: 36px;
 	margin-left: 963px;
-	top: -111px;
+	top: -112px;
 	margin-bottom: -37px;
 	position: relative;
 }
@@ -306,7 +306,7 @@
 	height: 37px;
 	width: 36px;
 	margin-left: 963px;
-	top: -71px;
+	top: -72px;
 	margin-bottom: -37px;
 	position: relative;
 }
@@ -317,7 +317,7 @@
 	width: 734px;
 	min-height: 21px;
 	margin-left: 200px;
-	margin-top: 2px;
+	margin-top: 1px;
 	position: relative;
 }
 

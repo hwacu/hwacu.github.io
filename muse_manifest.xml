@@ -1,18 +1,18 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1473534089480">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1473534806773">
   <folder name="css">
     <file name="site_global.css" crc="216051557"/>
-    <file name="master_a-master.css" crc="4006965011" ref="index:therapies:appointments:about"/>
-    <file name="index.css" crc="3909341333" ref="index"/>
-    <file name="therapies.css" crc="3713113" ref="therapies"/>
-    <file name="appointments.css" crc="380513324" ref="appointments"/>
-    <file name="about.css" crc="4279505796" ref="about"/>
+    <file name="master_a-master.css" crc="100783954" ref="index:therapies:appointments:about"/>
+    <file name="index.css" crc="296500018" ref="index"/>
+    <file name="therapies.css" crc="3932290636" ref="therapies"/>
+    <file name="appointments.css" crc="4183421662" ref="appointments"/>
+    <file name="about.css" crc="4246907576" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:about:therapies:appointments"/>
     <file name="museutils.js" crc="3790713428" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:about:therapies:appointments"/>
     <file name="whatinput.js" crc="84559013" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:about:therapies:appointments"/>
     <file name="jquery.musemenu.js" crc="238543590" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:about:therapies:appointments"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="phone>index:phone>my-story:tablet>index:tablet>my-story:index:therapies:appointments"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="phone>index:phone>my-story:tablet>index:tablet>my-story:index:therapies"/>
     <file name="jquery.watch.js" crc="4244854265" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:about:therapies:appointments"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:about:therapies:appointments"/>
     <file name="webpro.js" crc="329496574" ref="phone>portfolio:phone>contact:tablet>index:tablet>portfolio:tablet>contact:index"/>
@@ -77,7 +77,7 @@
     <file name="u4117-17-fs.png" crc="4152731841" ref="tablet>contact"/>
     <file name="wellnessbackground2.png" crc="499737560" ref="index"/>
     <file name="hwacu_logo.png" crc="510898543" ref="therapies"/>
-    <file name="hwacu_logo-u5373-fr.png" crc="191349868" ref="index:appointments"/>
+    <file name="hwacu_logo-u5373-fr.png" crc="191349868" ref="index"/>
     <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="index:about:therapies:appointments"/>
     <file name="u3665.png" crc="430385288" ref="index:about:therapies:appointments"/>
     <file name="u3665-r.png" crc="4221785855" ref="index:about:therapies:appointments"/>
@@ -124,8 +124,8 @@
     <file name="my-story.html" crc="489914850" seo="true" mt="1473529148068" redirect="true"/>
     <file name="contact.html" crc="4052449166" seo="true" mt="1473533616210" redirect="true"/>
   </folder>
-  <file name="index.html" crc="420068259" seo="true" mt="1473534076683" redirect="true"/>
-  <file name="about.html" crc="3833531077" seo="true" mt="1473533937364" redirect="true"/>
-  <file name="therapies.html" crc="4072948197" seo="true" mt="1473533954484" redirect="true"/>
-  <file name="appointments.html" crc="4239335075" seo="true" mt="1473533860186" redirect="true"/>
+  <file name="index.html" crc="30529377" seo="true" mt="1473534691597" redirect="true"/>
+  <file name="about.html" crc="152065219" seo="true" mt="1473534691597" redirect="true"/>
+  <file name="therapies.html" crc="49129307" seo="true" mt="1473534691597" redirect="true"/>
+  <file name="appointments.html" crc="4294342817" seo="true" mt="1473534691597" redirect="true"/>
 </manifest>
