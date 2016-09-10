@@ -1,0 +1,131 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1473534089480">
+  <folder name="css">
+    <file name="site_global.css" crc="216051557"/>
+    <file name="master_a-master.css" crc="4006965011" ref="index:therapies:appointments:about"/>
+    <file name="index.css" crc="3909341333" ref="index"/>
+    <file name="therapies.css" crc="3713113" ref="therapies"/>
+    <file name="appointments.css" crc="380513324" ref="appointments"/>
+    <file name="about.css" crc="4279505796" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:about:therapies:appointments"/>
+    <file name="museutils.js" crc="3790713428" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:about:therapies:appointments"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:about:therapies:appointments"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:about:therapies:appointments"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="phone>index:phone>my-story:tablet>index:tablet>my-story:index:therapies:appointments"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:about:therapies:appointments"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>portfolio:phone>my-story:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:about:therapies:appointments"/>
+    <file name="webpro.js" crc="329496574" ref="phone>portfolio:phone>contact:tablet>index:tablet>portfolio:tablet>contact:index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="phone>portfolio:tablet>index:tablet>portfolio:index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="phone>portfolio:tablet>index:tablet>portfolio:index"/>
+    <file name="touchswipe.js" crc="497316881" ref="phone>portfolio:tablet>index:tablet>portfolio:index"/>
+    <file name="museredirect.js" crc="71780213" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index"/>
+    <file name="pie.js" crc="3827607177" ref="tablet>index:tablet>portfolio:index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index:about:therapies:appointments"/>
+  </folder>
+  <folder name="images">
+    <file name="pen_01.jpg" crc="4160589120" ref="phone>index:tablet>index"/>
+    <file name="pen_04.jpg" crc="298723064" ref="phone>index:tablet>index:index"/>
+    <file name="pen_05.jpg" crc="3913382269" ref="phone>index:tablet>index:index"/>
+    <file name="u3693.png" crc="61380839" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
+    <file name="u3693-r.png" crc="4012575802" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
+    <file name="u3697.png" crc="430385288" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
+    <file name="u3697-r.png" crc="4221785855" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
+    <file name="u3695.png" crc="172396241" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
+    <file name="u3695-r.png" crc="69546391" ref="phone>index:phone>portfolio:phone>my-story:phone>contact"/>
+    <file name="work_00-crop-u1692.jpg" crc="4056140485" ref="phone>portfolio"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>portfolio:tablet>portfolio"/>
+    <file name="work_01-crop-u2135.jpg" crc="261511614" ref="phone>portfolio"/>
+    <file name="work_02-crop-u2144.jpg" crc="3896742753" ref="phone>portfolio"/>
+    <file name="work_03-crop-u2153.jpg" crc="380691694" ref="phone>portfolio"/>
+    <file name="work_04-crop-u2162.jpg" crc="3847885669" ref="phone>portfolio"/>
+    <file name="work_05-crop-u2171.jpg" crc="3914010871" ref="phone>portfolio"/>
+    <file name="work_06-crop-u2180.jpg" crc="139403041" ref="phone>portfolio"/>
+    <file name="work_07-crop-u2189.jpg" crc="3834172418" ref="phone>portfolio"/>
+    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="phone>portfolio:tablet>portfolio:index:about:therapies:appointments"/>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="phone>portfolio:tablet>portfolio"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>portfolio:tablet>portfolio"/>
+    <file name="pen_06-u1839-fr.jpg" crc="4020772438" ref="phone>my-story"/>
+    <file name="u1859-17.png" crc="4152731841" ref="phone>contact"/>
+    <file name="u1859-17-r.png" crc="153986056" ref="phone>contact"/>
+    <file name="u1859-17-m.png" crc="153986056" ref="phone>contact"/>
+    <file name="u1859-17-fs.png" crc="4152731841" ref="phone>contact"/>
+    <file name="pen_02.jpg" crc="3928947854" ref="tablet>index"/>
+    <file name="pen_03.jpg" crc="500833879" ref="tablet>index"/>
+    <file name="u3683.png" crc="61380839" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="u3683-r.png" crc="4012575802" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="u3687.png" crc="430385288" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="u3687-r.png" crc="4221785855" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="u3685.png" crc="172396241" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="u3685-r.png" crc="69546391" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="work_04.jpg" crc="129926566" seo="true" ref="tablet>portfolio"/>
+    <file name="work_05.jpg" crc="4280020048" seo="true" ref="tablet>portfolio"/>
+    <file name="work_07.jpg" crc="25338086" seo="true" ref="tablet>portfolio"/>
+    <file name="work_00-crop-u2607.jpg" crc="4125351768" ref="tablet>portfolio"/>
+    <file name="work_03-crop-u2609.jpg" crc="4137966321" ref="tablet>portfolio"/>
+    <file name="work_02-crop-u2613.jpg" crc="412458115" ref="tablet>portfolio"/>
+    <file name="work_06-crop-u2621.jpg" crc="281373519" ref="tablet>portfolio"/>
+    <file name="work_01-crop-u2619.jpg" crc="271855126" ref="tablet>portfolio"/>
+    <file name="work_04-crop-u2611.jpg" crc="429872231" ref="tablet>portfolio"/>
+    <file name="work_05-crop-u2617.jpg" crc="3927129530" ref="tablet>portfolio"/>
+    <file name="work_07-crop-u2615.jpg" crc="523280881" ref="tablet>portfolio"/>
+    <file name="arrows-mn_close.png" crc="206776778" ref="tablet>portfolio"/>
+    <file name="pen_06.jpg" crc="4018826185" ref="tablet>my-story"/>
+    <file name="u4117-17.png" crc="4152731841" ref="tablet>contact"/>
+    <file name="u4117-17-r.png" crc="153986056" ref="tablet>contact"/>
+    <file name="u4117-17-m.png" crc="153986056" ref="tablet>contact"/>
+    <file name="u4117-17-fs.png" crc="4152731841" ref="tablet>contact"/>
+    <file name="wellnessbackground2.png" crc="499737560" ref="index"/>
+    <file name="hwacu_logo.png" crc="510898543" ref="therapies"/>
+    <file name="hwacu_logo-u5373-fr.png" crc="191349868" ref="index:appointments"/>
+    <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="index:about:therapies:appointments"/>
+    <file name="u3665.png" crc="430385288" ref="index:about:therapies:appointments"/>
+    <file name="u3665-r.png" crc="4221785855" ref="index:about:therapies:appointments"/>
+    <file name="u3667.png" crc="61380839" ref="index:about:therapies:appointments"/>
+    <file name="u3667-r.png" crc="4012575802" ref="index:about:therapies:appointments"/>
+    <file name="u3669.png" crc="172396241" ref="index:about:therapies:appointments"/>
+    <file name="u3669-r.png" crc="69546391" ref="index:about:therapies:appointments"/>
+    <file name="sound-waves-light-background-1234662.png" crc="482681127" ref="index"/>
+    <file name="work_00.jpg" crc="317168115" seo="true" ref="tablet>portfolio"/>
+    <file name="work_03.jpg" crc="333551166" seo="true" ref="tablet>portfolio"/>
+    <file name="work_02.jpg" crc="465130372" seo="true" ref="tablet>portfolio"/>
+    <file name="work_06.jpg" crc="443318456" seo="true" ref="tablet>portfolio"/>
+    <file name="work_01.jpg" crc="3759648309" seo="true" ref="tablet>portfolio"/>
+    <file name="hwacu_logo480x240.png" crc="3944179256" seo="true" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3874180854" ref="tablet>portfolio:tablet>my-story:tablet>contact:tablet>index"/>
+      <file name="portfolio.css" crc="75068111" ref="tablet>portfolio"/>
+      <file name="my-story.css" crc="3869728611" ref="tablet>my-story"/>
+      <file name="iefonts_my-story.css" crc="3903774842" ref="tablet>my-story"/>
+      <file name="contact.css" crc="329860088" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="3894031975" ref="tablet>contact"/>
+      <file name="index.css" crc="4051205562" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4067758399" seo="true" mt="1473529150067" redirect="true"/>
+    <file name="portfolio.html" crc="3932017850" seo="true" mt="1473529150067" redirect="true"/>
+    <file name="my-story.html" crc="4134501673" seo="true" mt="1473529150067" redirect="true"/>
+    <file name="contact.html" crc="393700624" seo="true" mt="1473533616214" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3826441708" ref="phone>my-story:phone>index:phone>portfolio:phone>contact"/>
+      <file name="my-story.css" crc="4260521663" ref="phone>my-story"/>
+      <file name="iefonts_my-story.css" crc="4095156549" ref="phone>my-story"/>
+      <file name="index.css" crc="3955451334" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3778776619" ref="phone>index"/>
+      <file name="portfolio.css" crc="4251994298" ref="phone>portfolio"/>
+      <file name="contact.css" crc="324782224" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="71246456" ref="phone>contact"/>
+    </folder>
+    <file name="index.html" crc="4261309264" seo="true" mt="1473529148068" redirect="true"/>
+    <file name="portfolio.html" crc="4141509860" seo="true" mt="1473529148068" redirect="true"/>
+    <file name="my-story.html" crc="489914850" seo="true" mt="1473529148068" redirect="true"/>
+    <file name="contact.html" crc="4052449166" seo="true" mt="1473533616210" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="420068259" seo="true" mt="1473534076683" redirect="true"/>
+  <file name="about.html" crc="3833531077" seo="true" mt="1473533937364" redirect="true"/>
+  <file name="therapies.html" crc="4072948197" seo="true" mt="1473533954484" redirect="true"/>
+  <file name="appointments.html" crc="4239335075" seo="true" mt="1473533860186" redirect="true"/>
+</manifest>
