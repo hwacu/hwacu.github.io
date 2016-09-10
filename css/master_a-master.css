@@ -29,19 +29,6 @@
 	background-color: #6B6B6B;
 }
 
-#u5715-4
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 19px;
-	text-align: center;
-	line-height: 23px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: bold;
-}
-
 #u5720
 {
 	background-color: #C4C4C4;
@@ -55,19 +42,6 @@
 #u5720:active
 {
 	background-color: #6B6B6B;
-}
-
-#u5723-4
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 19px;
-	text-align: center;
-	line-height: 23px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: bold;
 }
 
 #u5701,#u5712,#u5719,#u5741
@@ -95,17 +69,15 @@
 	background-color: #999999;
 }
 
-#u5744-4
+#u5715-4_clip,#u5723-4_clip,#u5744-4_clip
 {
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 19px;
-	text-align: center;
-	line-height: 23px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: bold;
+	overflow: hidden;
+	vertical-align: top;
+}
+
+#u5715-4_img,#u5723-4_img,#u5744-4_img
+{
+	display: block;
 }
 
 .MenuItem /* unifiedNavBar */
@@ -149,8 +121,8 @@
 #u530-4
 {
 	background-color: transparent;
-	font-size: 12px;
-	line-height: 14px;
+	font-size: 13px;
+	line-height: 16px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 }
