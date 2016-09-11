@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000D;
-	background-color: #95A730;
+	color: #0000F2;
+	background-color: #0F00CC;
 }
 
 #muse_css_mq
@@ -44,7 +44,7 @@
 
 #u5701
 {
-	z-index: 76;
+	z-index: 74;
 	width: 326px;
 	position: relative;
 	margin-right: -10000px;
@@ -60,7 +60,7 @@
 
 #u5708-4
 {
-	z-index: 78;
+	z-index: 76;
 	width: 538px;
 	min-height: 37px;
 	position: relative;
@@ -68,7 +68,7 @@
 
 #menuu5711
 {
-	z-index: 82;
+	z-index: 80;
 	width: 552px;
 	margin-top: 24px;
 	position: relative;
@@ -233,67 +233,64 @@
 #u440
 {
 	z-index: 36;
-	width: 592px;
-	height: 314px;
+	width: 485px;
+	height: 358px;
 	border-width: 0px;
 	margin-right: -10000px;
 	position: relative;
-	padding: 124px 87px 255px 61px;
+	padding: 124px 130px 211px 125px;
 	background: transparent url("../images/wellnessbackground2.png") no-repeat right bottom;
 	background-size: cover;
 }
 
-#u559-3
-{
-	z-index: 37;
-	width: 592px;
-	min-height: 239px;
-	background-color: transparent;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	padding-left: 0px;
-	visibility: inherit;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u559-3 > *
-{
-	padding-left: 0px;
-	padding-left: -10px;
-}
-
 #u5453
 {
-	z-index: 40;
+	z-index: 37;
 	width: 480px;
 	background-color: transparent;
 	position: relative;
-	margin-right: -10000px;
-	left: 64px;
 }
 
 #u5479-4
 {
-	z-index: 42;
+	z-index: 39;
 	width: 481px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #7A7A7A;
+	line-height: 24px;
 	font-size: 20px;
 	letter-spacing: 6px;
-	line-height: 24px;
+	color: #7A7A7A;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;
 	font-style: normal;
-	margin-left: 67px;
+	margin-left: 3px;
 	margin-top: 48px;
+	position: relative;
+}
+
+#u6665-4
+{
+	z-index: 43;
+	width: 485px;
+	min-height: 32px;
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 20px;
+	letter-spacing: 6px;
+	color: #7A7A7A;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-weight: normal;
+	font-style: italic;
+	margin-top: 12px;
 	position: relative;
 }
 
 #u4406
 {
-	z-index: 46;
+	z-index: 47;
 	width: 740px;
 	height: 693px;
 	border-width: 0px;
@@ -305,7 +302,7 @@
 
 #u4412-3
 {
-	z-index: 47;
+	z-index: 48;
 	width: 592px;
 	min-height: 239px;
 	background-color: transparent;
@@ -319,7 +316,7 @@
 
 #u5431
 {
-	z-index: 50;
+	z-index: 51;
 	width: 480px;
 	background-color: transparent;
 	position: relative;
@@ -330,7 +327,7 @@
 
 #pamphletu5785
 {
-	z-index: 52;
+	z-index: 53;
 	width: 0.01px;
 	height: 658px;
 	padding-bottom: 35px;
@@ -347,43 +344,47 @@
 
 #u5789popup
 {
-	z-index: 53;
+	z-index: 54;
 }
 
-#u5794
+#u5790
 {
-	z-index: 54;
+	z-index: 55;
 	width: 592px;
-	height: 318px;
+	height: 358px;
 	border-width: 0px;
 	margin-right: -10000px;
 	position: relative;
-	padding: 124px 87px 251px 61px;
-	background: transparent url("../images/wellnessbackground2.png") no-repeat right bottom;
+	padding: 124px 87px 211px 61px;
+	background: transparent url("../images/sound-waves-light-background-1234662.png") no-repeat right bottom;
 	background-size: cover;
 }
 
-#pu559-3,#pu5795-3
+#pu5791-3
 {
 	width: 0.01px;
 }
 
-#u5795-3
+#u5791-3
 {
-	z-index: 55;
+	z-index: 56;
 	width: 592px;
 	min-height: 239px;
 	background-color: transparent;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	padding-left: 0px;
 	visibility: inherit;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u5796
+#u4412-3 > *,#u5791-3 > *
 {
-	z-index: 58;
+	padding-left: -10px;
+}
+
+#u5792
+{
+	z-index: 59;
 	width: 480px;
 	background-color: transparent;
 	position: relative;
@@ -391,104 +392,52 @@
 	left: 64px;
 }
 
-#u6656-4
+#u6668-4
 {
-	z-index: 60;
+	z-index: 61;
+	width: 481px;
+	min-height: 26px;
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 20px;
+	letter-spacing: 6px;
+	color: #7A7A7A;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	margin-left: 64px;
+	margin-top: 48px;
+	position: relative;
+}
+
+#u6669-4
+{
+	z-index: 65;
 	width: 485px;
 	min-height: 32px;
 	background-color: transparent;
-	color: #7A7A7A;
+	line-height: 24px;
 	font-size: 20px;
 	letter-spacing: 6px;
-	line-height: 24px;
+	color: #7A7A7A;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;
 	font-style: italic;
-	margin-left: 67px;
-	margin-top: 46px;
+	margin-left: 62px;
+	margin-top: 12px;
 	position: relative;
-}
-
-#u5790
-{
-	z-index: 64;
-	width: 740px;
-	height: 693px;
-	border-width: 0px;
-	margin-right: -10000px;
-	position: relative;
-	background: transparent url("../images/sound-waves-light-background-1234662.png") no-repeat right bottom;
-	background-size: cover;
-}
-
-#u5791-3
-{
-	z-index: 65;
-	width: 592px;
-	min-height: 239px;
-	background-color: transparent;
-	padding-left: 0px;
-	visibility: inherit;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 124px;
-	left: 61px;
-}
-
-#u4412-3 > *,#u5795-3 > *,#u5791-3 > *
-{
-	padding-left: -10px;
-}
-
-#u5792
-{
-	z-index: 68;
-	width: 480px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 124px;
-	left: 125px;
 }
 
 #u5799
 {
-	z-index: 70;
-	width: 30px;
+	z-index: 69;
+	width: 10px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 648px;
-	left: 71px;
-}
-
-#u5801
-{
-	position: absolute;
-	width: 10px;
-	height: 10px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #000000;
-	border-radius: 10px;
-}
-
-#u5801:hover
-{
-	background-color: #C69C6D;
-	width: 10px;
-	height: 10px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u5801:active
-{
-	background-color: #FFFFFF;
-	width: 10px;
-	height: 10px;
-	min-height: 0px;
-	margin: 0px;
+	left: 91px;
 }
 
 #u5800
@@ -500,7 +449,6 @@
 	border-color: transparent;
 	background-color: #000000;
 	border-radius: 10px;
-	left: 20px;
 }
 
 #u5800:hover
@@ -528,7 +476,7 @@
 
 #u423
 {
-	z-index: 73;
+	z-index: 71;
 	width: 30px;
 	position: relative;
 	margin-right: -10000px;
@@ -595,7 +543,7 @@
 	margin: 0px;
 }
 
-#u5801.PamphletThumbSelected,#u5800.PamphletThumbSelected,#u424.PamphletThumbSelected,#u4408.PamphletThumbSelected
+#u5800.PamphletThumbSelected,#u424.PamphletThumbSelected,#u4408.PamphletThumbSelected
 {
 	background-color: #C69C6D;
 	border-radius: 10px;
@@ -611,8 +559,8 @@
 	width: 592px;
 	min-height: 24px;
 	background-color: transparent;
-	color: #3E3E3E;
 	line-height: 22px;
+	color: #3E3E3E;
 	font-size: 18px;
 	text-align: left;
 	letter-spacing: 4px;
@@ -629,10 +577,10 @@
 	width: 592px;
 	min-height: 22px;
 	background-color: transparent;
-	color: #7A7A7A;
+	line-height: 24px;
 	font-size: 20px;
 	letter-spacing: 6px;
-	line-height: 24px;
+	color: #7A7A7A;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;

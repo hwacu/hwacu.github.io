@@ -1,7 +1,7 @@
 .version.therapies /* version checker */
 {
-	color: #000016;
-	background-color: #385570;
+	color: #000005;
+	background-color: #937892;
 }
 
 #muse_css_mq
@@ -502,8 +502,8 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 462px;
@@ -521,8 +521,8 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 462px;

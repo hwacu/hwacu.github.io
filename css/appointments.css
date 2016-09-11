@@ -1,7 +1,7 @@
 .version.appointments /* version checker */
 {
-	color: #0000FE;
-	background-color: #F6E63F;
+	color: #000009;
+	background-color: #7210AE;
 }
 
 #muse_css_mq
@@ -220,8 +220,8 @@
 	width: 572px;
 	min-height: 20px;
 	background-color: transparent;
-	font-size: 50px;
 	line-height: 43px;
+	font-size: 50px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 111px;
 	margin-top: 14px;
