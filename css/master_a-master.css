@@ -1,8 +1,12 @@
 #u5708-4
 {
+	text-shadow: 0px 0px 8px rgba(30,255,57,0.5),0px 0px 8px rgba(30,255,57,0.5);
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-color: #4EFF5A;
 	background-color: transparent;
-	font-size: 33px;
 	line-height: 40px;
+	font-size: 33px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 }
@@ -16,7 +20,10 @@
 
 #u5713
 {
-	background-color: #C4C4C4;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #000000;
+	background-color: transparent;
 }
 
 #u5713:hover
@@ -29,12 +36,26 @@
 	background-color: #6B6B6B;
 }
 
-#u5720
+#u5715
 {
-	background-color: #C4C4C4;
+	vertical-align: top;
+	background: transparent url("../images/u5715.png") no-repeat 0px 0px;
 }
 
-#u5713.MuseMenuActive,#u5720:hover
+#u5713:hover #u5715
+{
+	background: transparent url("../images/u5715-r.png") no-repeat 0px 0px;
+}
+
+#u5720
+{
+	border-style: solid;
+	border-width: 3px;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#u5720:hover
 {
 	background-color: #999999;
 }
@@ -44,6 +65,17 @@
 	background-color: #6B6B6B;
 }
 
+#u5723
+{
+	vertical-align: top;
+	background: transparent url("../images/u5723.png") no-repeat 0px 0px;
+}
+
+#u5720:hover #u5723
+{
+	background: transparent url("../images/u5723-r.png") no-repeat 0px 0px;
+}
+
 #u5701,#u5712,#u5719,#u5741
 {
 	background-color: transparent;
@@ -51,10 +83,13 @@
 
 #u5742
 {
-	background-color: #C4C4C4;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #000000;
+	background-color: transparent;
 }
 
-#u5720.MuseMenuActive,#u5742:hover
+#u5742:hover
 {
 	background-color: #999999;
 }
@@ -64,20 +99,20 @@
 	background-color: #6B6B6B;
 }
 
-#u5742.MuseMenuActive
+#u5713.MuseMenuActive,#u5720.MuseMenuActive,#u5742.MuseMenuActive
 {
-	background-color: #999999;
+	background-color: #97FFB5;
 }
 
-#u5715-4_clip,#u5723-4_clip,#u5744-4_clip
+#u5744
 {
-	overflow: hidden;
 	vertical-align: top;
+	background: transparent url("../images/u5744.png") no-repeat 0px 0px;
 }
 
-#u5715-4_img,#u5723-4_img,#u5744-4_img
+#u5742:hover #u5744
 {
-	display: block;
+	background: transparent url("../images/u5744-r.png") no-repeat 0px 0px;
 }
 
 .MenuItem /* unifiedNavBar */
