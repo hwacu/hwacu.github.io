@@ -1,15 +1,15 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1474386596360">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1474387597494">
   <folder name="assets">
     <file name="hwacu_forms2.pdf" crc="3853310736" seo="true" mt="1474382224000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="216051557"/>
-    <file name="master_a-master.css" crc="4097346781" ref="index:appointments:about:therapies:thanks"/>
-    <file name="index.css" crc="351997519" ref="index"/>
-    <file name="appointments.css" crc="3781298802" ref="appointments"/>
-    <file name="about.css" crc="284096825" ref="about"/>
-    <file name="therapies.css" crc="416460425" ref="therapies"/>
-    <file name="thanks.css" crc="437459563" ref="thanks"/>
+    <file name="master_a-master.css" crc="131610391" ref="index:appointments:about:therapies:thanks"/>
+    <file name="index.css" crc="59700785" ref="index"/>
+    <file name="appointments.css" crc="480560614" ref="appointments"/>
+    <file name="about.css" crc="240475300" ref="about"/>
+    <file name="therapies.css" crc="4249933555" ref="therapies"/>
+    <file name="thanks.css" crc="4210900180" ref="thanks"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:about:therapies:appointments:thanks"/>
@@ -55,9 +55,9 @@
     <file name="loading.gif" crc="3815509949" ref="therapies"/>
     <file name="acp_pdf 2_file_document.png" crc="6419794" seo="true" ref="appointments"/>
   </folder>
-  <file name="index.html" crc="142007113" seo="true" mt="1474383530562" redirect="true"/>
-  <file name="about.html" crc="148242044" seo="true" mt="1474386364654" redirect="true"/>
-  <file name="therapies.html" crc="345875062" seo="true" mt="1474383530562" redirect="true"/>
-  <file name="appointments.html" crc="329451243" seo="true" mt="1474386590834" redirect="true"/>
-  <file name="thanks.html" crc="291380461" seo="true" mt="1474383606442" redirect="true"/>
+  <file name="index.html" crc="4282503970" seo="true" mt="1474387253307" redirect="true"/>
+  <file name="about.html" crc="1142386" seo="true" mt="1474387253307" redirect="true"/>
+  <file name="therapies.html" crc="3881542940" seo="true" mt="1474387253307" redirect="true"/>
+  <file name="appointments.html" crc="309514188" seo="true" mt="1474387253307" redirect="true"/>
+  <file name="thanks.html" crc="4092476278" seo="true" mt="1474387253307" redirect="true"/>
 </manifest>

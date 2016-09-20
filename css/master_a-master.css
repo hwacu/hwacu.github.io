@@ -7,6 +7,26 @@
 	background-color: transparent;
 	font-size: 33px;
 	line-height: 40px;
+	letter-spacing: 1px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+}
+
+#u6779-4
+{
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+}
+
+#u6782-4
+{
+	background-color: transparent;
+	font-size: 13px;
+	text-align: right;
+	line-height: 16px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 }
