@@ -1,7 +1,7 @@
 .version.therapies /* version checker */
 {
-	color: #000005;
-	background-color: #937892;
+	color: #000018;
+	background-color: #D2AE89;
 }
 
 #muse_css_mq
@@ -217,13 +217,15 @@
 #u922-4
 {
 	z-index: 16;
-	width: 789px;
+	width: 920px;
 	min-height: 19px;
 	background-color: transparent;
-	line-height: 43px;
 	font-size: 50px;
+	line-height: 43px;
+	letter-spacing: 4px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	margin-left: 111px;
+	margin-left: 20px;
 	margin-top: 15px;
 	position: relative;
 }
@@ -502,9 +504,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 462px;
 	left: 542px;
@@ -521,9 +523,9 @@
 	width: 30px;
 	min-height: 30px;
 	background-color: transparent;
-	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 462px;
 	left: 642px;

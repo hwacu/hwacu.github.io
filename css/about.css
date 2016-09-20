@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000FF;
-	background-color: #380D88;
+	color: #0000EF;
+	background-color: #8ECD4B;
 }
 
 #muse_css_mq
@@ -217,13 +217,15 @@
 #u910-4
 {
 	z-index: 17;
-	width: 575px;
+	width: 920px;
 	min-height: 23px;
 	background-color: transparent;
-	line-height: 43px;
 	font-size: 50px;
+	line-height: 43px;
+	letter-spacing: 5px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	margin-left: 111px;
+	margin-left: 20px;
 	margin-top: 14px;
 	position: relative;
 }
@@ -245,8 +247,8 @@
 	width: 575px;
 	min-height: 253px;
 	background-color: transparent;
-	line-height: 25px;
 	font-size: 19px;
+	line-height: 25px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
