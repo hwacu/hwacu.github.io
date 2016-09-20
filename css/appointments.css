@@ -1,7 +1,7 @@
 .version.appointments /* version checker */
 {
-	color: #0000FD;
-	background-color: #175088;
+	color: #0000F8;
+	background-color: #8CE421;
 }
 
 #muse_css_mq
@@ -347,6 +347,7 @@
 	border-width: 5px;
 	border-color: #00DAB6;
 	background-color: transparent;
+	border-radius: 10px;
 	margin-bottom: -3px;
 	position: relative;
 	margin-right: -10000px;
@@ -390,6 +391,7 @@
 	border-width: 5px;
 	border-color: #00F809;
 	background-color: transparent;
+	border-radius: 10px;
 	margin-bottom: -3px;
 	position: relative;
 	margin-right: -10000px;
