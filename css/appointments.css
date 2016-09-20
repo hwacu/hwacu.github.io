@@ -1,7 +1,7 @@
 .version.appointments /* version checker */
 {
-	color: #0000E0;
-	background-color: #1C9454;
+	color: #0000FD;
+	background-color: #175088;
 }
 
 #muse_css_mq
@@ -13,19 +13,18 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1590.75px;
+	min-height: 1591px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	padding-bottom: 54px;
+	padding-bottom: 53px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -44,7 +43,7 @@
 
 #u5701
 {
-	z-index: 54;
+	z-index: 68;
 	width: 326px;
 	position: relative;
 	margin-right: -10000px;
@@ -60,7 +59,7 @@
 
 #u5708-4
 {
-	z-index: 56;
+	z-index: 70;
 	width: 538px;
 	min-height: 37px;
 	position: relative;
@@ -68,7 +67,7 @@
 
 #menuu5711
 {
-	z-index: 60;
+	z-index: 74;
 	width: 552px;
 	margin-top: 24px;
 	position: relative;
@@ -266,12 +265,6 @@
 	font-weight: bold;
 }
 
-#u6684-7
-{
-	font-size: 18px;
-	line-height: 22px;
-}
-
 #u6684-9
 {
 	font-size: 13px;
@@ -280,24 +273,11 @@
 	font-weight: bold;
 }
 
-#pu6707-7
+#pu6689
 {
 	width: 0.01px;
-	margin-left: 85px;
-	margin-top: 15px;
-}
-
-#u6707-7
-{
-	z-index: 47;
-	width: 428px;
-	min-height: 87px;
-	background-color: transparent;
-	font-size: 18px;
-	line-height: 22px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 21px;
+	margin-left: 72px;
+	margin-top: 20px;
 }
 
 #u6689
@@ -307,10 +287,11 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 503px;
+	margin-top: 6px;
+	left: 521px;
 }
 
-#u6699-4
+#u6699-6
 {
 	z-index: 43;
 	width: 130px;
@@ -319,8 +300,101 @@
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 14px;
-	left: 653px;
+	margin-top: 20px;
+	left: 671px;
+}
+
+#u6699-2
+{
+	color: #FF4242;
+}
+
+#u6707-7
+{
+	z-index: 49;
+	width: 428px;
+	min-height: 44px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 38px;
+}
+
+#u6684-7,#u6707-2
+{
+	font-size: 18px;
+	line-height: 22px;
+}
+
+#u6707-3
+{
+	font-size: 6px;
+	line-height: 7px;
+}
+
+#u6707-5
+{
+	font-size: 14px;
+}
+
+#u6764
+{
+	z-index: 56;
+	width: 811px;
+	height: 135px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #00DAB6;
+	background-color: transparent;
+	margin-bottom: -3px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: -2px;
+}
+
+#pu6767-10
+{
+	width: 0.01px;
+	margin-left: 91px;
+	margin-top: 12px;
+}
+
+#u6767-10
+{
+	z-index: 57;
+	width: 762px;
+	min-height: 98px;
+	background-color: transparent;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 9px;
+}
+
+#u6767-2
+{
+	letter-spacing: 3px;
+	font-weight: bold;
+}
+
+#u6770
+{
+	z-index: 67;
+	width: 773px;
+	height: 123px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #00F809;
+	background-color: transparent;
+	margin-bottom: -3px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: -2px;
 }
 
 #u6681-4
@@ -334,8 +408,8 @@
 	text-align: center;
 	line-height: 29px;
 	font-weight: bold;
-	margin-left: 39px;
-	margin-top: 17px;
+	margin-left: 27px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -348,20 +422,20 @@
 	font-size: 12px;
 	text-align: left;
 	line-height: 14px;
-	margin-left: 39px;
-	margin-top: 17px;
+	margin-left: 28px;
+	margin-top: 16px;
 	position: relative;
 }
 
 #u6674
 {
 	z-index: 21;
-	width: 882px;
+	width: 904px;
 	min-height: 443px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 39px;
+	margin-left: 28px;
 	margin-top: 7px;
 	position: relative;
 }
@@ -375,7 +449,7 @@
 	-webkit-transform: matrix(0,1,-1,0,62,0);
 	-ms-transform: matrix(0,1,-1,0,62,0);
 	transform: matrix(0,1,-1,0,62,0);
-	bottom: -481px;
+	bottom: -479px;
 	right: 89px;
 	background: #F4F4F4 url("../images/arrows-mn_arrow_left.png") no-repeat center center;
 }
@@ -402,7 +476,7 @@
 	height: 37px;
 	width: 36px;
 	margin-left: 963px;
-	top: -49px;
+	top: -128px;
 	margin-bottom: -37px;
 	position: relative;
 }
@@ -413,8 +487,8 @@
 	height: 37px;
 	width: 36px;
 	margin-left: 963px;
-	top: -9px;
-	margin-bottom: -9px;
+	top: -88px;
+	margin-bottom: -37px;
 	position: relative;
 }
 
@@ -424,7 +498,8 @@
 	height: 37px;
 	width: 36px;
 	margin-left: 963px;
-	margin-top: 3px;
+	top: -49px;
+	margin-bottom: -37px;
 	position: relative;
 }
 
@@ -434,7 +509,7 @@
 	width: 734px;
 	min-height: 21px;
 	margin-left: 113px;
-	margin-top: 40px;
+	margin-top: 29px;
 	position: relative;
 }
 
