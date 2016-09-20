@@ -1,7 +1,7 @@
 .version.appointments /* version checker */
 {
-	color: #00001C;
-	background-color: #A4C5E6;
+	color: #000007;
+	background-color: #D62DE7;
 }
 
 #muse_css_mq
@@ -459,7 +459,7 @@
 #u6674
 {
 	z-index: 21;
-	width: 948px;
+	width: 970px;
 	min-height: 443px;
 	border-width: 0px;
 	border-color: transparent;
