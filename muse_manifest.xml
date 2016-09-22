@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1474562521068">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1474571662016">
   <folder name="assets">
     <file name="hwacu_forms2.pdf" crc="3853310736" seo="true" mt="1474382224000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="216051557"/>
     <file name="master_a-master.css" crc="131610391" ref="index:appointments:about:therapies:thanks"/>
-    <file name="index.css" crc="59700785" ref="index"/>
-    <file name="appointments.css" crc="3934633838" ref="appointments"/>
-    <file name="about.css" crc="240475300" ref="about"/>
-    <file name="therapies.css" crc="4240366446" ref="therapies"/>
+    <file name="index.css" crc="4292512725" ref="index"/>
+    <file name="appointments.css" crc="4248094442" ref="appointments"/>
+    <file name="about.css" crc="439618433" ref="about"/>
+    <file name="therapies.css" crc="36365398" ref="therapies"/>
     <file name="thanks.css" crc="4126239656" ref="thanks"/>
   </folder>
   <folder name="scripts">
@@ -35,8 +35,8 @@
     <file name="u3665-r.png" crc="4221785855" ref="index:about:therapies:appointments:thanks"/>
     <file name="u3667.png" crc="61380839" ref="index:about:therapies:appointments:thanks"/>
     <file name="u3667-r.png" crc="4012575802" ref="index:about:therapies:appointments:thanks"/>
-    <file name="u3669.png" crc="172396241" ref="index:about:therapies:appointments:thanks"/>
-    <file name="u3669-r.png" crc="69546391" ref="index:about:therapies:appointments:thanks"/>
+    <file name="u3669.png" crc="3980754437" ref="index:about:therapies:appointments:thanks"/>
+    <file name="u3669-r.png" crc="3986044951" ref="index:about:therapies:appointments:thanks"/>
     <file name="hwacu_logo.png" crc="3944179256" ref="therapies:index:about:appointments:thanks" seo="true"/>
     <file name="acupuncture-treatment.jpg" crc="4261040719" ref="index"/>
     <file name="waterdrop.jpg" crc="112596098" ref="index"/>
@@ -49,9 +49,9 @@
     <file name="u5744-r.png" crc="4213111060" ref="index:about:therapies:appointments:thanks"/>
     <file name="acp_pdf 2_file_document.png" crc="6419794" seo="true" ref="appointments"/>
   </folder>
-  <file name="index.html" crc="4282503970" seo="true" mt="1474387253307" redirect="true"/>
-  <file name="about.html" crc="1142386" seo="true" mt="1474387253307" redirect="true"/>
-  <file name="therapies.html" crc="402421721" seo="true" mt="1474562454869" redirect="true"/>
-  <file name="appointments.html" crc="435612910" seo="true" mt="1474415795815" redirect="true"/>
-  <file name="thanks.html" crc="4028253437" seo="true" mt="1474388333639" redirect="true"/>
+  <file name="index.html" crc="108775665" seo="true" mt="1474571101334" redirect="true"/>
+  <file name="about.html" crc="4135326925" seo="true" mt="1474571425628" redirect="true"/>
+  <file name="therapies.html" crc="294414592" seo="true" mt="1474571547371" redirect="true"/>
+  <file name="appointments.html" crc="3781390825" seo="true" mt="1474571639398" redirect="true"/>
+  <file name="thanks.html" crc="4191015931" seo="true" mt="1474570850866" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #8EF631;
+	color: #0000FF;
+	background-color: #DA8BD5;
 }
 
 #muse_css_mq
@@ -44,7 +44,7 @@
 
 #u5701
 {
-	z-index: 74;
+	z-index: 75;
 	width: 326px;
 	position: relative;
 	margin-right: -10000px;
@@ -60,7 +60,7 @@
 
 #u5708-4
 {
-	z-index: 76;
+	z-index: 77;
 	width: 558px;
 	min-height: 37px;
 	position: relative;
@@ -75,7 +75,7 @@
 
 #u6779-4
 {
-	z-index: 96;
+	z-index: 97;
 	width: 232px;
 	min-height: 33px;
 	position: relative;
@@ -84,7 +84,7 @@
 
 #u6782-4
 {
-	z-index: 100;
+	z-index: 101;
 	width: 321px;
 	min-height: 27px;
 	position: relative;
@@ -95,7 +95,7 @@
 
 #menuu5711
 {
-	z-index: 80;
+	z-index: 81;
 	width: 552px;
 	margin-top: 13px;
 	position: relative;
@@ -243,7 +243,7 @@
 
 #pamphletu422
 {
-	z-index: 34;
+	z-index: 35;
 	width: 0.01px;
 	height: 658px;
 	padding-bottom: 35px;
@@ -254,12 +254,12 @@
 
 #u429popup
 {
-	z-index: 35;
+	z-index: 36;
 }
 
 #u440
 {
-	z-index: 36;
+	z-index: 37;
 	width: 485px;
 	height: 358px;
 	border-width: 0px;
@@ -272,7 +272,7 @@
 
 #u5453
 {
-	z-index: 37;
+	z-index: 38;
 	width: 480px;
 	background-color: transparent;
 	position: relative;
@@ -280,7 +280,7 @@
 
 #u5479-4
 {
-	z-index: 39;
+	z-index: 40;
 	width: 481px;
 	min-height: 26px;
 	background-color: transparent;
@@ -299,7 +299,7 @@
 
 #u6665-4
 {
-	z-index: 43;
+	z-index: 44;
 	width: 485px;
 	min-height: 32px;
 	background-color: transparent;
@@ -317,7 +317,7 @@
 
 #u4406
 {
-	z-index: 47;
+	z-index: 48;
 	width: 740px;
 	height: 693px;
 	border-width: 0px;
@@ -329,7 +329,7 @@
 
 #u4412-3
 {
-	z-index: 48;
+	z-index: 49;
 	width: 592px;
 	min-height: 239px;
 	background-color: transparent;
@@ -343,7 +343,7 @@
 
 #u5431
 {
-	z-index: 51;
+	z-index: 52;
 	width: 480px;
 	background-color: transparent;
 	position: relative;
@@ -354,7 +354,7 @@
 
 #pamphletu5785
 {
-	z-index: 53;
+	z-index: 54;
 	width: 0.01px;
 	height: 658px;
 	padding-bottom: 35px;
@@ -371,12 +371,12 @@
 
 #u5789popup
 {
-	z-index: 54;
+	z-index: 55;
 }
 
 #u5790
 {
-	z-index: 55;
+	z-index: 56;
 	width: 592px;
 	height: 358px;
 	border-width: 0px;
@@ -394,7 +394,7 @@
 
 #u5791-3
 {
-	z-index: 56;
+	z-index: 57;
 	width: 592px;
 	min-height: 239px;
 	background-color: transparent;
@@ -411,7 +411,7 @@
 
 #u5792
 {
-	z-index: 59;
+	z-index: 60;
 	width: 480px;
 	background-color: transparent;
 	position: relative;
@@ -421,7 +421,7 @@
 
 #u6668-4
 {
-	z-index: 61;
+	z-index: 62;
 	width: 481px;
 	min-height: 26px;
 	background-color: transparent;
@@ -440,7 +440,7 @@
 
 #u6669-4
 {
-	z-index: 65;
+	z-index: 66;
 	width: 485px;
 	min-height: 32px;
 	background-color: transparent;
@@ -459,7 +459,7 @@
 
 #u5799
 {
-	z-index: 69;
+	z-index: 70;
 	width: 10px;
 	position: relative;
 	margin-right: -10000px;
@@ -503,7 +503,7 @@
 
 #u423
 {
-	z-index: 71;
+	z-index: 72;
 	width: 30px;
 	position: relative;
 	margin-right: -10000px;
@@ -582,7 +582,7 @@
 
 #u560-3
 {
-	z-index: 26;
+	z-index: 27;
 	width: 592px;
 	min-height: 24px;
 	background-color: transparent;
@@ -600,7 +600,7 @@
 
 #u561-4
 {
-	z-index: 29;
+	z-index: 30;
 	width: 592px;
 	min-height: 22px;
 	background-color: transparent;
@@ -627,7 +627,7 @@
 
 #buttonu540
 {
-	z-index: 21;
+	z-index: 22;
 	width: 350px;
 	border-width: 0px;
 	padding-bottom: 58px;
@@ -639,7 +639,7 @@
 
 #u508-4
 {
-	z-index: 22;
+	z-index: 23;
 	width: 229px;
 	min-height: 46px;
 	border-style: solid;
@@ -688,7 +688,7 @@
 
 #buttonu536
 {
-	z-index: 16;
+	z-index: 17;
 	width: 350px;
 	border-width: 0px;
 	padding-bottom: 58px;
@@ -701,7 +701,7 @@
 
 #u506-4
 {
-	z-index: 17;
+	z-index: 18;
 	width: 147px;
 	min-height: 46px;
 	border-style: solid;
@@ -753,16 +753,29 @@
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
+#u6800
+{
+	z-index: 16;
+	width: 740px;
+	min-height: 604px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 112px;
+	margin-top: 33px;
+	position: relative;
+}
+
 #u1075
 {
-	z-index: 33;
+	z-index: 34;
 	width: 62px;
 	height: 62px;
 	position: fixed;
 	-webkit-transform: matrix(0,1,-1,0,62,0);
 	-ms-transform: matrix(0,1,-1,0,62,0);
 	transform: matrix(0,1,-1,0,62,0);
-	bottom: -31px;
+	bottom: -500px;
 	right: 88px;
 	background: #F4F4F4 url("../images/arrows-mn_arrow_left.png") no-repeat center center;
 }

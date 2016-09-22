@@ -1,7 +1,7 @@
 .version.therapies /* version checker */
 {
-	color: #0000FC;
-	background-color: #BEDB6E;
+	color: #000002;
+	background-color: #2AE456;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 2264.75px;
+	min-height: 2264.7499999999995px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -44,7 +44,7 @@
 
 #u5701
 {
-	z-index: 21;
+	z-index: 221;
 	width: 326px;
 	position: relative;
 	margin-right: -10000px;
@@ -60,7 +60,7 @@
 
 #u5708-4
 {
-	z-index: 23;
+	z-index: 223;
 	width: 558px;
 	min-height: 37px;
 	position: relative;
@@ -75,7 +75,7 @@
 
 #u6779-4
 {
-	z-index: 43;
+	z-index: 243;
 	width: 232px;
 	min-height: 33px;
 	position: relative;
@@ -84,7 +84,7 @@
 
 #u6782-4
 {
-	z-index: 47;
+	z-index: 247;
 	width: 321px;
 	min-height: 27px;
 	position: relative;
@@ -95,7 +95,7 @@
 
 #menuu5711
 {
-	z-index: 27;
+	z-index: 227;
 	width: 552px;
 	margin-top: 13px;
 	position: relative;
@@ -257,6 +257,24 @@
 	position: relative;
 }
 
+#u6788-200
+{
+	z-index: 21;
+	width: 684px;
+	min-height: 1719px;
+	background-color: transparent;
+	font-size: 18px;
+	line-height: 22px;
+	margin-left: 131px;
+	margin-top: 26px;
+	position: relative;
+}
+
+#u6788-5,#u6788-64
+{
+	font-weight: bold;
+}
+
 #u1101
 {
 	z-index: 20;
@@ -266,7 +284,7 @@
 	-webkit-transform: matrix(0,1,-1,0,62,0);
 	-ms-transform: matrix(0,1,-1,0,62,0);
 	transform: matrix(0,1,-1,0,62,0);
-	bottom: 11px;
+	bottom: -1088px;
 	right: 89px;
 	background: #F4F4F4 url("../images/arrows-mn_arrow_left.png") no-repeat center center;
 }
@@ -293,7 +311,8 @@
 	height: 37px;
 	width: 36px;
 	margin-left: 963px;
-	margin-top: 1762px;
+	top: -129px;
+	margin-bottom: -37px;
 	position: relative;
 }
 
@@ -303,7 +322,8 @@
 	height: 37px;
 	width: 36px;
 	margin-left: 963px;
-	margin-top: 3px;
+	top: -89px;
+	margin-bottom: -37px;
 	position: relative;
 }
 
@@ -313,7 +333,8 @@
 	height: 37px;
 	width: 36px;
 	margin-left: 963px;
-	margin-top: 3px;
+	top: -49px;
+	margin-bottom: -37px;
 	position: relative;
 }
 
@@ -323,7 +344,7 @@
 	width: 734px;
 	min-height: 21px;
 	margin-left: 113px;
-	margin-top: 40px;
+	margin-top: 28px;
 	position: relative;
 }
 
