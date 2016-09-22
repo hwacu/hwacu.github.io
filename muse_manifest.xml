@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1474571662016">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1474572243390">
   <folder name="assets">
     <file name="hwacu_forms2.pdf" crc="3853310736" seo="true" mt="1474382224000"/>
   </folder>
@@ -51,7 +51,7 @@
   </folder>
   <file name="index.html" crc="108775665" seo="true" mt="1474571101334" redirect="true"/>
   <file name="about.html" crc="4135326925" seo="true" mt="1474571425628" redirect="true"/>
-  <file name="therapies.html" crc="294414592" seo="true" mt="1474571547371" redirect="true"/>
+  <file name="therapies.html" crc="4216136061" seo="true" mt="1474572087438" redirect="true"/>
   <file name="appointments.html" crc="3781390825" seo="true" mt="1474571639398" redirect="true"/>
   <file name="thanks.html" crc="4191015931" seo="true" mt="1474570850866" redirect="true"/>
 </manifest>
