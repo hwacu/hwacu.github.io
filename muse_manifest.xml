@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1474415829634">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1474562521068">
   <folder name="assets">
     <file name="hwacu_forms2.pdf" crc="3853310736" seo="true" mt="1474382224000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="216051557"/>
-    <file name="master_a-master.css" crc="3783990703" ref="index:appointments:about:therapies:thanks"/>
+    <file name="master_a-master.css" crc="131610391" ref="index:appointments:about:therapies:thanks"/>
     <file name="index.css" crc="59700785" ref="index"/>
     <file name="appointments.css" crc="3934633838" ref="appointments"/>
     <file name="about.css" crc="240475300" ref="about"/>
-    <file name="therapies.css" crc="4249933555" ref="therapies"/>
+    <file name="therapies.css" crc="4240366446" ref="therapies"/>
     <file name="thanks.css" crc="4126239656" ref="thanks"/>
   </folder>
   <folder name="scripts">
@@ -16,11 +16,11 @@
     <file name="museutils.js" crc="3790713428" ref="index:about:therapies:appointments:thanks"/>
     <file name="whatinput.js" crc="84559013" ref="index:about:therapies:appointments:thanks"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index:therapies:about:appointments"/>
-    <file name="webpro.js" crc="329496574" ref="index:therapies"/>
-    <file name="musewpslideshow.js" crc="394033048" ref="index:therapies"/>
-    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:therapies"/>
-    <file name="touchswipe.js" crc="497316881" ref="index:therapies"/>
+    <file name="pie.js" crc="3827607177" ref="index:about:appointments"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
     <file name="jquery.musemenu.js" crc="238543590" ref="index:about:therapies:appointments:thanks"/>
     <file name="jquery.watch.js" crc="4244854265" ref="index:about:therapies:appointments:thanks"/>
     <file name="jquery.scrolleffects.js" crc="4219894366" ref="index:about:therapies:appointments"/>
@@ -47,17 +47,11 @@
     <file name="u5723-r.png" crc="426468785" ref="index:about:therapies:appointments:thanks"/>
     <file name="u5744.png" crc="324907963" ref="index:about:therapies:appointments:thanks"/>
     <file name="u5744-r.png" crc="4213111060" ref="index:about:therapies:appointments:thanks"/>
-    <file name="treatment-pain.jpg" crc="508544089" seo="true" ref="therapies"/>
-    <file name="treatment-ad.jpg" crc="274923667" seo="true" ref="therapies"/>
-    <file name="treatment-disease.jpg" crc="481649376" seo="true" ref="therapies"/>
-    <file name="treatment-fertility.jpg" crc="4102086482" seo="true" ref="therapies"/>
-    <file name="treatment-health.jpg" crc="4271853290" seo="true" ref="therapies"/>
-    <file name="loading.gif" crc="3815509949" ref="therapies"/>
     <file name="acp_pdf 2_file_document.png" crc="6419794" seo="true" ref="appointments"/>
   </folder>
   <file name="index.html" crc="4282503970" seo="true" mt="1474387253307" redirect="true"/>
   <file name="about.html" crc="1142386" seo="true" mt="1474387253307" redirect="true"/>
-  <file name="therapies.html" crc="3881542940" seo="true" mt="1474387253307" redirect="true"/>
+  <file name="therapies.html" crc="402421721" seo="true" mt="1474562454869" redirect="true"/>
   <file name="appointments.html" crc="435612910" seo="true" mt="1474415795815" redirect="true"/>
   <file name="thanks.html" crc="4028253437" seo="true" mt="1474388333639" redirect="true"/>
 </manifest>
