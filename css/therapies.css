@@ -1,7 +1,7 @@
 .version.therapies /* version checker */
 {
-	color: #000002;
-	background-color: #2AE456;
+	color: #0000E4;
+	background-color: #9AC28E;
 }
 
 #muse_css_mq
@@ -248,9 +248,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	font-size: 50px;
-	line-height: 43px;
-	letter-spacing: 4px;
 	text-align: center;
+	letter-spacing: 4px;
+	line-height: 43px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 20px;
 	margin-top: 15px;

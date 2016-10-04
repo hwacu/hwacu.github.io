@@ -5,9 +5,9 @@
 	box-shadow: none;
 	border-color: #4EFF5A;
 	background-color: transparent;
+	letter-spacing: 1px;
 	font-size: 33px;
 	line-height: 40px;
-	letter-spacing: 1px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 }
@@ -15,8 +15,8 @@
 #u6779-4
 {
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 }
@@ -176,8 +176,8 @@
 #u530-4
 {
 	background-color: transparent;
-	font-size: 13px;
 	line-height: 16px;
+	font-size: 13px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 }

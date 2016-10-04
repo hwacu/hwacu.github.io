@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #DA8BD5;
+	color: #000009;
+	background-color: #AB8608;
 }
 
 #muse_css_mq
@@ -285,10 +285,10 @@
 	min-height: 26px;
 	background-color: transparent;
 	font-size: 20px;
-	line-height: 24px;
+	text-align: center;
 	letter-spacing: 6px;
 	color: #7A7A7A;
-	text-align: center;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;
 	font-style: normal;
@@ -304,10 +304,10 @@
 	min-height: 32px;
 	background-color: transparent;
 	font-size: 20px;
-	line-height: 24px;
+	text-align: center;
 	letter-spacing: 6px;
 	color: #7A7A7A;
-	text-align: center;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;
 	font-style: italic;
@@ -426,10 +426,10 @@
 	min-height: 26px;
 	background-color: transparent;
 	font-size: 20px;
-	line-height: 24px;
+	text-align: center;
 	letter-spacing: 6px;
 	color: #7A7A7A;
-	text-align: center;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;
 	font-style: normal;
@@ -445,10 +445,10 @@
 	min-height: 32px;
 	background-color: transparent;
 	font-size: 20px;
-	line-height: 24px;
+	text-align: center;
 	letter-spacing: 6px;
 	color: #7A7A7A;
-	text-align: center;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;
 	font-style: italic;
@@ -586,11 +586,11 @@
 	width: 592px;
 	min-height: 24px;
 	background-color: transparent;
+	letter-spacing: 4px;
 	color: #3E3E3E;
 	font-size: 18px;
 	text-align: left;
 	line-height: 22px;
-	letter-spacing: 4px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 181px;
 	top: -605px;
@@ -605,10 +605,10 @@
 	min-height: 22px;
 	background-color: transparent;
 	font-size: 20px;
-	line-height: 24px;
+	text-align: center;
 	letter-spacing: 6px;
 	color: #7A7A7A;
-	text-align: center;
+	line-height: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: normal;
 	font-style: normal;

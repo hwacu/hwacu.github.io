@@ -1,7 +1,7 @@
 .version.thanks /* version checker */
 {
-	color: #0000F5;
-	background-color: #F16BA8;
+	color: #0000EF;
+	background-color: #D34AAF;
 }
 
 #muse_css_mq
@@ -248,9 +248,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	font-size: 50px;
-	line-height: 43px;
-	letter-spacing: 5px;
 	text-align: center;
+	letter-spacing: 5px;
+	line-height: 43px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 39px;
 	margin-top: 15px;
