@@ -5,9 +5,9 @@
 	box-shadow: none;
 	border-color: #4EFF5A;
 	background-color: transparent;
-	letter-spacing: 1px;
-	font-size: 33px;
 	line-height: 40px;
+	font-size: 33px;
+	letter-spacing: 1px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 }
@@ -24,9 +24,9 @@
 #u6782-4
 {
 	background-color: transparent;
+	line-height: 16px;
 	font-size: 13px;
 	text-align: right;
-	line-height: 16px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 }
