@@ -1,7 +1,7 @@
 .version.appointments /* version checker */
 {
-	color: #00001D;
-	background-color: #7AE93A;
+	color: #0000EE;
+	background-color: #776AEE;
 }
 
 #muse_css_mq
@@ -43,7 +43,7 @@
 
 #u5701
 {
-	z-index: 77;
+	z-index: 68;
 	width: 326px;
 	position: relative;
 	margin-right: -10000px;
@@ -59,7 +59,7 @@
 
 #u5708-4
 {
-	z-index: 79;
+	z-index: 70;
 	width: 558px;
 	min-height: 37px;
 	position: relative;
@@ -74,7 +74,7 @@
 
 #u6779-4
 {
-	z-index: 99;
+	z-index: 90;
 	width: 232px;
 	min-height: 33px;
 	position: relative;
@@ -83,7 +83,7 @@
 
 #u6782-4
 {
-	z-index: 103;
+	z-index: 94;
 	width: 321px;
 	min-height: 27px;
 	position: relative;
@@ -94,7 +94,7 @@
 
 #menuu5711
 {
-	z-index: 83;
+	z-index: 74;
 	width: 552px;
 	margin-top: 13px;
 	position: relative;
@@ -246,9 +246,9 @@
 	width: 882px;
 	min-height: 20px;
 	background-color: transparent;
+	line-height: 43px;
 	font-size: 50px;
 	letter-spacing: 5px;
-	line-height: 43px;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 39px;
@@ -278,6 +278,11 @@
 #u6684-2
 {
 	color: #0002FF;
+	font-weight: bold;
+}
+
+#u6684,#u6684-3
+{
 	font-weight: bold;
 }
 
@@ -371,22 +376,22 @@
 	border-color: #00F809;
 	background-color: transparent;
 	border-radius: 10px;
-	padding-bottom: 22px;
+	padding-bottom: 23px;
 	margin-left: 89px;
 	margin-top: 25px;
 	position: relative;
 }
 
-#u6814-11
+#u6814-10
 {
 	z-index: 58;
-	width: 347px;
+	width: 703px;
 	min-height: 98px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 21px;
-	left: 21px;
+	left: 36px;
 }
 
 #u6814-2
@@ -398,40 +403,16 @@
 	font-weight: bold;
 }
 
-#u6814-5
-{
-	font-size: 18px;
-	line-height: 22px;
-	font-weight: bold;
-}
-
-#u6684-7,#u6707-2,#u6814-3,#u6814-7,#u6814-9
+#u6684-7,#u6707-2,#u6814-3
 {
 	font-size: 18px;
 	line-height: 22px;
 }
 
-#u6865-8
+#u6814-5,#u6814-6,#u6814-8
 {
-	z-index: 69;
-	width: 281px;
-	background-color: transparent;
-	font-size: 18px;
-	line-height: 22px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 67px;
-	left: 434px;
-}
-
-#u6684,#u6684-3,#u6865-2
-{
-	font-weight: bold;
-}
-
-#u6865-5
-{
-	font-size: 18px;
+	font-size: 17px;
+	line-height: 20px;
 }
 
 #u6681-4
@@ -446,7 +427,7 @@
 	text-align: center;
 	font-weight: bold;
 	margin-left: 27px;
-	margin-top: 40px;
+	margin-top: 75px;
 	position: relative;
 }
 
@@ -486,7 +467,7 @@
 	-webkit-transform: matrix(0,1,-1,0,62,0);
 	-ms-transform: matrix(0,1,-1,0,62,0);
 	transform: matrix(0,1,-1,0,62,0);
-	bottom: -457px;
+	bottom: -487px;
 	right: 89px;
 	background: #F4F4F4 url("../images/arrows-mn_arrow_left.png") no-repeat center center;
 }
