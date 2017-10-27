@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F5;
-	background-color: #6E8857;
+	color: #0000E1;
+	background-color: #67E69C;
 }
 
 #muse_css_mq
@@ -285,8 +285,8 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #7A7A7A;
-	line-height: 24px;
 	font-size: 20px;
+	line-height: 24px;
 	letter-spacing: 6px;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
@@ -304,8 +304,8 @@
 	min-height: 32px;
 	background-color: transparent;
 	color: #7A7A7A;
-	line-height: 24px;
 	font-size: 20px;
+	line-height: 24px;
 	letter-spacing: 6px;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
@@ -426,8 +426,8 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #7A7A7A;
-	line-height: 24px;
 	font-size: 20px;
+	line-height: 24px;
 	letter-spacing: 6px;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
@@ -445,8 +445,8 @@
 	min-height: 32px;
 	background-color: transparent;
 	color: #7A7A7A;
-	line-height: 24px;
 	font-size: 20px;
+	line-height: 24px;
 	letter-spacing: 6px;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
@@ -587,9 +587,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #3E3E3E;
-	line-height: 22px;
 	font-size: 18px;
 	text-align: left;
+	line-height: 22px;
 	letter-spacing: 4px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 181px;
@@ -605,8 +605,8 @@
 	min-height: 22px;
 	background-color: transparent;
 	color: #7A7A7A;
-	line-height: 24px;
 	font-size: 20px;
+	line-height: 24px;
 	letter-spacing: 6px;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
@@ -707,8 +707,8 @@
 	border-style: solid;
 	border-width: 5px;
 	border-color: #3E3E3E;
-	line-height: 31px;
 	font-size: 26px;
+	line-height: 31px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 378px;
