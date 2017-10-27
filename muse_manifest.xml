@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1509123331125">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1509124409219">
   <folder name="css">
     <file name="site_global.css" crc="216051557"/>
-    <file name="master_a-master.css" crc="506595248" ref="about:appointments:index:thanks:therapies"/>
-    <file name="about.css" crc="311590887" ref="about"/>
+    <file name="master_a-master.css" crc="131610391" ref="about:appointments:index:thanks:therapies"/>
+    <file name="about.css" crc="349908918" ref="about"/>
     <file name="appointments.css" crc="4184462627" ref="appointments"/>
     <file name="index.css" crc="3781682844" ref="index"/>
     <file name="thanks.css" crc="60965220" ref="thanks"/>
@@ -50,8 +50,8 @@
     <file name="acp_pdf 2_file_document.png" crc="6419794" seo="true" ref="appointments"/>
   </folder>
   <file name="index.html" crc="203790599" seo="true" mt="1509123148091" redirect="true"/>
-  <file name="about.html" crc="260038631" seo="true" mt="1509123283856" redirect="true"/>
-  <file name="therapies.html" crc="4238936670" seo="true" mt="1509123289213" redirect="true"/>
-  <file name="appointments.html" crc="27155749" seo="true" mt="1509123293473" redirect="true"/>
+  <file name="about.html" crc="448033120" seo="true" mt="1509124374966" redirect="true"/>
+  <file name="therapies.html" crc="62993830" seo="true" mt="1509124381142" redirect="true"/>
+  <file name="appointments.html" crc="154431427" seo="true" mt="1509124390787" redirect="true"/>
   <file name="thanks.html" crc="169807312" seo="true" mt="1487016691758" redirect="true"/>
 </manifest>
