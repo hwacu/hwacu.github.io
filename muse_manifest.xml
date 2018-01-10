@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1509124409219">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hwacu.github.io" resolutions="1x" timestamp="1515618551862">
   <folder name="css">
     <file name="site_global.css" crc="216051557"/>
     <file name="master_a-master.css" crc="131610391" ref="about:appointments:index:thanks:therapies"/>
     <file name="about.css" crc="349908918" ref="about"/>
     <file name="appointments.css" crc="4184462627" ref="appointments"/>
-    <file name="index.css" crc="3781682844" ref="index"/>
-    <file name="thanks.css" crc="60965220" ref="thanks"/>
+    <file name="index.css" crc="173621060" ref="index"/>
+    <file name="thanks.css" crc="16110594" ref="thanks"/>
     <file name="therapies.css" crc="4155068615" ref="therapies"/>
   </folder>
   <folder name="assets">
@@ -49,9 +49,9 @@
     <file name="u3669-r.png" crc="3986044951" ref="index:about:therapies:appointments:thanks"/>
     <file name="acp_pdf 2_file_document.png" crc="6419794" seo="true" ref="appointments"/>
   </folder>
-  <file name="index.html" crc="203790599" seo="true" mt="1509123148091" redirect="true"/>
-  <file name="about.html" crc="448033120" seo="true" mt="1509124374966" redirect="true"/>
-  <file name="therapies.html" crc="62993830" seo="true" mt="1509124381142" redirect="true"/>
-  <file name="appointments.html" crc="154431427" seo="true" mt="1509124390787" redirect="true"/>
-  <file name="thanks.html" crc="169807312" seo="true" mt="1487016691758" redirect="true"/>
+  <file name="index.html" crc="4294211534" seo="true" mt="1515618200433" redirect="true"/>
+  <file name="about.html" crc="141220281" seo="true" mt="1515618340230" redirect="true"/>
+  <file name="therapies.html" crc="496261763" seo="true" mt="1515618200433" redirect="true"/>
+  <file name="appointments.html" crc="4146292838" seo="true" mt="1515618327099" redirect="true"/>
+  <file name="thanks.html" crc="221974368" seo="true" mt="1515618200433" redirect="true"/>
 </manifest>
