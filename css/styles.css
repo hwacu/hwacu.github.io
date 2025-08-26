@@ -1,0 +1,169 @@
+/* =============================
+   HW Acupuncture & Wellness Styles
+   Optimized for speed, UX & accessibility
+   ============================= */
+
+/* Reset & Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 100%;
+  scroll-behavior: smooth;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background: #fafafa;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+a {
+  color: #0073aa;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Header */
+header {
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  padding: 1rem 0;
+}
+header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+header nav a {
+  font-weight: bold;
+  color: #333;
+}
+header nav a:hover {
+  color: #0073aa;
+}
+.contact-info {
+  text-align: right;
+  font-size: 0.9rem;
+}
+
+/* Hero Section */
+.hero {
+  background: url('../images/hero-bg.webp') center/cover no-repeat;
+  color: #fff;
+  text-align: center;
+  padding: 4rem 2rem;
+}
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+.btn {
+  display: inline-block;
+  background: #0073aa;
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+.btn:hover,
+.btn:focus {
+  background: #005f87;
+}
+
+/* Services */
+.services {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+.services h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.services p {
+  margin-bottom: 1.5rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Map */
+.map iframe {
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+
+/* Footer */
+footer {
+  background: #333;
+  color: #fff;
+  padding: 2rem 1rem;
+}
+footer .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+footer nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+footer nav a {
+  color: #fff;
+}
+footer nav a:hover {
+  text-decoration: underline;
+}
+.social a {
+  color: #fff;
+  margin-left: 1rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  header .container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  header nav ul {
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-top: 1rem;
+  }
+  .contact-info {
+    margin-top: 1rem;
+    text-align: left;
+  }
+  footer .container {
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+  }
+}
